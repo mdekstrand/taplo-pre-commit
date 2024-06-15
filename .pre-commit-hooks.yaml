@@ -1,5 +1,5 @@
 - id: taplo-format
-  name: taplo-format-toml
+  name: taplo-format
   description: Format TOML documents
   entry: taplo
   args: [format]
