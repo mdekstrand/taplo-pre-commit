@@ -5,3 +5,4 @@
   args: [format]
   types_or: [toml]
   language: node
+  additional_dependencies: ["@taplo/cli>=0.7"]
