@@ -1,4 +1,4 @@
-- id: taplo-format-toml
+- id: taplo-format
   name: taplo-format-toml
   description: Format TOML documents
   entry: taplo
