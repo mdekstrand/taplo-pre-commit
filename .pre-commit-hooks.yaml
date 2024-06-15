@@ -1,0 +1,7 @@
+- id: taplo-format-toml
+  name: taplo-format-toml
+  description: Format TOML documents
+  entry: taplo
+  args: [format]
+  types_or: [toml]
+  language: node
